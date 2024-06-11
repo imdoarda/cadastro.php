@@ -6,13 +6,14 @@
     <meta http-equiv='X-UA-Compatible' content='IE=edge'>
     <title>Página de Login</title>
     <meta name='viewport' content='width=device-width, initial-scale=1'>
-    
+
     <script src='telas.js'></script>
     <link rel="stylesheet" type="text/css" media="screen" href="style.css">
-    
+
 </head>
 
 <body>
+    <header>
         <nav id="menu">
             <h1>Menu</h1>
             <ul>
@@ -21,6 +22,7 @@
                 <li><a href="login.php">Login</a></li>
             </ul>
         </nav>
+    </header>
     <div id="login">
         <form method="post" action="" class="form">
             <h1>ENTRAR</h1>
@@ -35,7 +37,7 @@
             <button>Enviar</button>
         </form>
     </div>
-    
+
 </body>
 
 </html>
