@@ -10,7 +10,7 @@
     <script src="https://stackpath.bootstrapcdn.com/bootstrap/4.1.3/js/bootstrap.min.js"></script>
     <link href="https://stackpath.bootstrapcdn.com/bootstrap/4.1.3/css/bootstrap.min.css" rel="stylesheet">
     <script src='telas.js'></script>
-    <link rel="stylesheet" type="text/css" media="screen" href="cover.css">
+    <link rel="stylesheet" type="text/css" media="screen" href="style.css">
     <link href="cover.css" rel="stylesheet">
 </head>
 

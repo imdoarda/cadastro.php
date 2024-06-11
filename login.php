@@ -8,7 +8,7 @@
     <meta name='viewport' content='width=device-width, initial-scale=1'>
     
     <script src='telas.js'></script>
-    <link rel="stylesheet" type="text/css" media="screen" href="cover.css">
+    <link rel="stylesheet" type="text/css" media="screen" href="style.css">
     
 </head>
 
