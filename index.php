@@ -9,10 +9,11 @@
     <script src="https://code.jquery.com/jquery-3.3.1.slim.min.js"></script>
     <script src="https://stackpath.bootstrapcdn.com/bootstrap/4.1.3/js/bootstrap.min.js"></script>
     <link href="https://stackpath.bootstrapcdn.com/bootstrap/4.1.3/css/bootstrap.min.css" rel="stylesheet">
+    <link rel="stylesheet" type="text/css" media="screen" href="cover.css">
+    <link href="cover.css" rel="stylesheet">
 </head>
 
 <body>
-    <header id="cabecalho">
         <nav id="menu">
             <h1>Menu</h1>
             <ul>
@@ -21,7 +22,8 @@
                 <li><a href="login.php">Login</a></li>
             </ul>
         </nav>
-    </header>
+
+        
 
 </body>
 
