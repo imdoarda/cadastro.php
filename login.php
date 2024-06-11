@@ -6,14 +6,13 @@
     <meta http-equiv='X-UA-Compatible' content='IE=edge'>
     <title>Página de Login</title>
     <meta name='viewport' content='width=device-width, initial-scale=1'>
-    <script src="https://code.jquery.com/jquery-3.3.1.slim.min.js"></script>
-    <script src="https://stackpath.bootstrapcdn.com/bootstrap/4.1.3/js/bootstrap.min.js"></script>
-    <link href="https://stackpath.bootstrapcdn.com/bootstrap/4.1.3/css/bootstrap.min.css" rel="stylesheet">
+    
     <script src='telas.js'></script>
+    <link rel="stylesheet" type="text/css" media="screen" href="cover.css">
+    
 </head>
 
 <body>
-    <header id="cabecalho">
         <nav id="menu">
             <h1>Menu</h1>
             <ul>
@@ -22,7 +21,6 @@
                 <li><a href="login.php">Login</a></li>
             </ul>
         </nav>
-    </header>
     <div id="login">
         <form method="post" action="" class="form">
             <h1>ENTRAR</h1>
@@ -37,6 +35,7 @@
             <button>Enviar</button>
         </form>
     </div>
+    
 </body>
 
 </html>
