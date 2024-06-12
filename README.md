@@ -9,6 +9,8 @@
 
 ### TELA INICIAL
 
+![image](https://github.com/imdoarda/cadastro.php/assets/127868962/a653cb0e-df90-4793-aafa-739d64a0238a)
+
 
 
 ## Introdução
@@ -43,6 +45,9 @@ O formulário de cadastro serve para realizar o cadastro de alguém em um site u
                 <button type="button" onclick="Verifica()">AVANÇAR</button>
             </form>
     </div>
+
+   ![image](https://github.com/imdoarda/cadastro.php/assets/127868962/273fd9d2-e1bb-48be-bc75-5eb5c307fbfd)
+
    
     
 ## Descrição : TELA DE LOGIN
@@ -67,6 +72,9 @@ Nessa tela, usuários já cadastrados realizam seu acesso ao site.
         </form>
     </div>
 
+  ![image](https://github.com/imdoarda/cadastro.php/assets/127868962/48b4f064-1ad2-4f6a-b452-c282b1e65c9a)
+
+
 ## Curiosidade:
 Em todas as páginas do site existe um cabeçalho. Esse foi feito de acordo com as aulas do primeiro ano, em 2022, quando o professor estava ensinando a montar sites. O código desse cabeçalho está logo abaixo.
 
@@ -80,6 +88,8 @@ Em todas as páginas do site existe um cabeçalho. Esse foi feito de acordo com 
             </ul>
         </nav>
     </header>
+
+![cab](https://github.com/imdoarda/cadastro.php/assets/127868962/2202e67d-92f0-44f5-9ae7-018baa1bdb1c)
 
 
 Esse cabeçalho facilita a locomoção do usuário de uma página a outra. As páginas em questão são:
