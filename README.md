@@ -1,8 +1,9 @@
 # ÍNDICE
  
 * [Introdução](#introdu%C3%A7%C3%A3o)  
-* [Descrição](#descri%C3%A7%C3%A3o)  
-* [Curiosidade](#Curiosidade)  
+* [Descrição: TELA DE CADASTRO](#descri%C3%A7%C3%A3o-tela-de-cadastro)
+* [Descrição: TELA DE LOGIN](#descri%C3%A7%C3%A3o-tela-de-login)
+* [Curiosidade](#curiosidade)  
 * [Tecnologias Utilizadas](#tecnologias-utilizadas)  
 * [Autores](#autores)  
 
