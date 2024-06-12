@@ -89,7 +89,8 @@ Em todas as páginas do site existe um cabeçalho. Esse foi feito de acordo com 
         </nav>
     </header>
 
-![cab](https://github.com/imdoarda/cadastro.php/assets/127868962/2202e67d-92f0-44f5-9ae7-018baa1bdb1c)
+![cab2](https://github.com/imdoarda/cadastro.php/assets/127868962/4ac26636-a1a6-4c31-99e5-42751aaf4c88)
+
 
 
 Esse cabeçalho facilita a locomoção do usuário de uma página a outra. As páginas em questão são:
